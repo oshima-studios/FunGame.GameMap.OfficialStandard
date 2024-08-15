@@ -1,8 +1,8 @@
 ﻿namespace Milimoe.FunGame.GameMap.OfficialStandard
 {
-    public class OfficialMap16x16 : Core.Library.Common.Addon.GameMap
+    public class StandardMap16x16 : Core.Library.Common.Addon.GameMap
     {
-        public override string Name => "OfficialMap16x16";
+        public override string Name => "fungame.standard.map16x16";
 
         public override string Description => "长16格，宽16格，高16格，尺寸为32的立方体地图";
 
